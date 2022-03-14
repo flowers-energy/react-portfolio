@@ -1,20 +1,20 @@
 {
     "basic_info": {
       "name": "Zach Flowers",
-      "titles": [ "Software Developer" ],
+      "titles": [ "Wave Wrangler since 1987" ],
       "social": [
         {
           "name": "github",
-          "url": "https://github.com",
+          "url": "https://github.com/flowers-energy",
           "class": "fab fa-github"
         },
         {
-          "name": "instagram",
-          "url": "https://www.instagram.com",
-          "class": "fab fa-instagram"
+          "name": "twitter",
+          "url": "https://twitter.com/flowers_energy",
+          "class": "fab fa-twitter"
         }
       ],
-      "image": "myProfile.jpg"
+      "image": "IMG_2075.jpeg"
     },
     "skills": {
       "icons": [
