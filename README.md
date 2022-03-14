@@ -9,8 +9,18 @@ Estimate of time needed to complete: 45 min
 
 Start time: 8:25pm
 
-Finish time: 8:30pm
+Finish time: 9:30pm
 
-Actual time needed to complete: 15 min
+Actual time needed to complete: 65 min
+
+Number and name of feature: Projects Section
+
+Estimate of time needed to complete: 45 min
+
+Start time: 8:25pm
+
+Finish time: 9:30pm
+
+Actual time needed to complete: 65 min
 
 
