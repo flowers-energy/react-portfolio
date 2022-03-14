@@ -17,10 +17,10 @@ Number and name of feature: Projects Section
 
 Estimate of time needed to complete: 45 min
 
-Start time: 8:25pm
+Start time: 9:30pm
 
-Finish time: 9:30pm
+Finish time: 10:30pm
 
-Actual time needed to complete: 65 min
+Actual time needed to complete: 60 min
 
 
